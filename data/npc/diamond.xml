@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Janaina" script="data/npc/scripts/default.lua" walkinterval="3000" floorchange="0" speed="180">
+	<health now="185" max="185"/>
+	<look type="140" addons="2" head="0" body="0" legs="0" feet="0" corpse="2317"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello i sell any small diamonts for enchant"/>
+		<parameter key="message_farewell" value="Bye Bye"/>
+		<parameter key="shop_buyable" value="small sapphire,2146,1000;small emerald,2149,1000;small amethyst,2150,1000;small ruby,2147,1000;"/>
+		<parameter key="shop_sellable" value=""/>
+		<parameter key="travel_destinations" value=""/>
+	</parameters>
+</npc>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Alano" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="128" head="114" body="71" legs="114" feet="114" addons="3"/>
+    <parameters>
+        <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I can to take you for {depot} and {trainers}."/>
+        <parameter key="travel_destinations" value="depot,63,48,7,10;lojas,61,48,5,15;trainers,403,92,7,25;"/>
+	</parameters>
+</npc>

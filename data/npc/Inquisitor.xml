@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Inquisitor" script="data/npc/scripts/inquisitor.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="268" head="12" body="101" legs="122" feet="115" addons="3"/>
+	<parameters>
+  <parameter key="message_greet" value="Ola |PLAYERNAME|! Voce deseja saber sobre a {inquisition}?"/>
+    </parameters>
+</npc>

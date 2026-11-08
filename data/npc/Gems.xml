@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gems" script="data/npc/scripts/gems.lua" walkinterval="2000" floorchange="0" access="3" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="130" head="60" body="100" legs="82" feet="114" addons="1" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Hi |PLAYERNAME|. Do you have any gems that you don't need anymore?" />
+		<parameter key="message_needmoremoney" value="You need more money."/>
+		<parameter key="message_decline" value="A sad day for me."/>
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<npc name="Ashtamin" script="data/npc/scripts/Ashtamin.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="51" />
+        <parameters>
+                <parameter key="message_greet" value="Hi |PLAYERNAME|, if you want to do the djinn quest say {mission}." />
+                <parameter key="message_farewell" value="Good bye!" />
+                <parameter key="message_walkaway" value="Good bye!" />
+        </parameters>
+</npc>

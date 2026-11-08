@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Magda" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="288" head="132" body="79" legs="97" feet="132" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello i sell noob itens"/>
+		<parameter key="message_farewell" value="Take Care"/>
+		<parameter key="shop_buyable" value="brass armor,2465,250;banana staff,3966,1000;brass legs,2478,150;scarf,2661,15;plate legs,2647,600;plate armor,2463,500;dwarven shield,2525,150;noble armor,2486,1500;devil helmet,2462,1200;beholder shield,2518,1000;spike sword,7744,1000;orcish axe,2428,200;"/>
+		<parameter key="shop_sellable" value=""/>
+		<parameter key="travel_destinations" value=""/>
+	</parameters>
+</npc>

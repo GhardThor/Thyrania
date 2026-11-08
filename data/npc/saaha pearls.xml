@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jenny" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="140" head="79" body="0" legs="0" feet="91" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu compro Pearls( White and Black ), Small Jewels ( Ruby, Amethyst, Diamond e Emerald ), Gems ( Violet e Yellow ) and Big Jewels ( Ruby e Emerald )." />
+		<parameter key="shop_sellable" value="white pearl,2143,220;black pearl,2144,220;small diamond,2145,300;small sapphire,2146,500;small ruby,2147,400;small emerald,2149,400;small amethyst,2150,400;violet gem,2153,3000;yellow gem,2154,4000;big emerald,2155,4000;big ruby,2156,4000;" />
+	</parameters>
+</npc>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mahnas" script="data/npc/scripts/mahnas.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="65" head="0" body="114" legs="114" feet="114" addons="3"/>
+</npc>

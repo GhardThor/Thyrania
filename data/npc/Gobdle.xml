@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gobdle" script="data/npc/scripts/mission1.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="278" head="104" body="0" legs="114" feet="113" addons="3"/>
+    <parameters>
+        <parameter key="message_greet" value="Ola, |PLAYERNAME|! Sou um velho que conta {historias}" /> 
+    </parameters>
+</npc>

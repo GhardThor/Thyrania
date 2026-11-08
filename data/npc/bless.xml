@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Francis, the divine" script="data/npc/scripts/bless.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="57" head="20" body="30" legs="40" feet="50" corpse="3128"/>
+	 <parameters> 
+	        <parameter key="message_greet" value="Ola |PLAYERNAME|, eu vendo {first bless}, {second bless}, {third bless}, {fourth bless} e {fifth bless}. Caso voce seja {EPIC, NAO COMPRE!}."/>
+    </parameters> 
+			</npc>

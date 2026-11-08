@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ruwu, the legend" script="data/npc/scripts/default.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="129" head="114" body="114" legs="90" feet="114" addons="3" corpse="2212"/>
+	<parameters>
+		<parameter key="message_greet" value="Hello! i sell {bow}!! Say trade to buy."/>
+		<parameter key="module_shop" value="3"/>
+		<parameter key="shop_buyable" value="Bow,2456,40"/>
+	</parameters>
+</npc>

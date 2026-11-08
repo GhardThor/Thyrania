@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Xhoni" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0"> 
+    <health now="100" max="100"/> 
+	<look type="194" head="3" body="90" legs="114" feet="4" addons="3" corpse="2212"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+        <parameter key="shop_buyable" value="rust remover,9930,1000"/> 
+		<parameter key="message_greet" value="Hola... Eu vendo rust removers, fale {trade} para ver minhas ofertas."/>
+    </parameters> 
+</npc> 

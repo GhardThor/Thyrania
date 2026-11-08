@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tamewga" script="data/npc/scripts/default.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="251" head="0" body="114" legs="96" feet="76" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello guy! I {sell} and {buy} many itens!"/>
+		<parameter key="shop_buyable" value="brass armor,2465,250;banana staff,3966,1000;brass legs,2478,150;scarf,2661,15;plate legs,2647,600;plate armor,2463,500;dwarven shield,2525,150;noble armor,2486,1500;devil helmet,2462,1200;beholder shield,2518,1000;spike sword,7744,1000;orcish axe,2428,200;"/>
+		<parameter key="shop_sellable" value="Dragon hammer,2434,2000;Giant sword,2393,17000;Knight axe,2430,2000;Poison dagger,2411,50;Scimitar,2419,150;Serpent sword,2409,900;Skull staff,2436,6000;Dark armor,2489,400;Knight armor,2476,5000;Dark helmet,2490,250;Mystic turban,2663,150;Strange helmet,2479,500;Warrior helmet,2475,5000;Knight legs,2477,5000;Ancient shield,2532,900;Black shield,2529,800;Tower shield,2528,8000;Vampire shield,2534,15000"/>
+	</parameters>
+</npc>

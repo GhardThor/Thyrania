@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hugo" script="tools.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="153" head="0" body="114" legs="114" feet="0" addons="3" corpse="2212"/>
+	<parameters>
+  <parameter key="message_greet" value="Hello! I sell many equipaments, say {trade} for more informations."/>
+    </parameters>
+</npc>
+

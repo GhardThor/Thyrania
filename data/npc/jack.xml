@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Jack, the analist" script="data/npc/scripts/jack.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="152" head="0" body="19" legs="114" feet="114" addons="0"/>
+	<parameters>
+		
+	</parameters>
+</npc>

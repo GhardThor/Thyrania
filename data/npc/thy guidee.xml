@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Paula" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="155" head="79" body="128" legs="114" feet="0" addons="3"/>
+    <parameters>
+        <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu posso te levar ao {depot}, {lojas} e {trainers}."/>
+        <parameter key="travel_destinations" value="depot,63,48,7,0;lojas,61,48,5,0;trainers,102,42,8,0;"/>
+	</parameters>
+</npc>

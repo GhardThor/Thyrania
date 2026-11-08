@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Pietro" script="data/npc/scripts/poh.lua" access="5" lookdir="1" walkinterval="2000">
+	<health now="1" max="1"/>
+	<look type="57" head="20" body="30" legs="40" feet="50" corpse="3128"/>
+	<parameters>
+  <parameter key="message_greet" value="Hi |PLAYERNAME|! Do you want learn more about {jungle} quest?"/>
+    </parameters>
+	</npc>

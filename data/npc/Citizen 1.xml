@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Cithen" script="data/npc/scripts/citizen 1.lua" walkinterval="2000" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="128" head="114" body="114" legs="114" feet="114" addons="3"/>
+</npc>

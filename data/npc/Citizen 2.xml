@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Cithana" script="data/npc/scripts/citizen 2.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="136" head="79" body="15" legs="18" feet="0" addons="3"/>
+</npc>

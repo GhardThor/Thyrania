@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Boby" script="data/npc/scripts/demonhunter1.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="289" head="79" body="94" legs="114" feet="77" addons="1"/>
+</npc>

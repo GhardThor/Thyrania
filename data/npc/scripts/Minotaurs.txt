@@ -1,0 +1,48 @@
+Mino Fibula:
+Fala1:
+Suk mikaha duk hyth duk uthat.
+Sou membro da sociedade dos exploradores.
+
+Fala2:
+San kuji hulu pithin duk hyth, kuji nued duk makaht duk Jack, Ni Stugha, quko kuji ni repo, vulthi fuktha.
+Se você quiser participar da sociedade, você precisa da permissão do Jack, O Analista, quando você a tiver, volte aqui.
+
+Fala3:
+Akit tuta bruk hure inip duk kaht, ahu kuji ig mikaha duk hyth, ratak efa Jack, Ni Stugha lacun yhun wond.
+Aceite este broche como início da missão, agora você é membro da sociedade, fale com Jack, O Analista para mais intruções.
+
+Minotaur Language:
+
+Ruan: Hi
+Whimpy: Bye
+Braska: Espere
+Uthat: Explorador
+Hyth: Sociedade
+Makaht: Permissão
+Stugha: Analista
+Ratak: Fale
+Suk: Sou
+Mikaha: Membro
+Duk: De(da,do,das,etc...)
+San: Se
+Kuji: Você
+Hulu: Quiser
+Pithin: Pariticipar
+Nued: Precisa
+Ni: O(a,as,os)
+Quko: Quando
+Repo: Tiver
+Vuthi: Volte
+Fuktha: Aqui
+Bruk: Broche
+Akit: Aceite
+Tuta: Este
+Hure: Como
+Inip: Início
+Kaht: Missão
+Ahu: Agora
+Ig: É
+Efa: Com
+Lacun: Para
+Yhun: Mais
+Wond: Informações

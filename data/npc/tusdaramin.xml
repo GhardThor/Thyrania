@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tus'Daramin" script="data/npc/scripts/tusdaramin.lua" floorchange="0" access="5">
+	<health now="150" max="150"/>
+	<look type="51" head="20" body="30" legs="40" feet="50" corpse="3001"/>
+		<parameters>
+  <parameter key="message_greet" value="Ola! Voce deseja saber sobre a {BLUE DJINN} ou sobre a {GREEN DJINN} quest?"/>
+    </parameters>
+</npc>

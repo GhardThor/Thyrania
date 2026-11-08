@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Warrina" script="data/npc/scripts/warrior 2.lua" access="3" lookdir="2" walkinterval="2000">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+<look type="142" head="114" body="15" legs="16" feet="0" addons="3"/>
+</npc>
