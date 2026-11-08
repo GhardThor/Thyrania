@@ -22,17 +22,11 @@ Servidor de OpenTibia baseado na versão clássica **8.60**, apresentando o cons
 
 ---
 
-## ⚡ Características & Rates
+## ⚡ Características
 
 | Configuração | Padrão | Descrição |
 | :--- | :--- | :--- |
 | **Versão do Cliente** | `8.60` | Compatível com clientes 8.60 e IP Changers |
-| **Tipo de Mundo** | `PvP` | Proteção até nível 25 |
-| **Experiência** | `50x` | Taxa fixa (ou configurável por estágios) |
-| **Skills** | `30x` | Avanço rápido de combate |
-| **Magic Level** | `15x` | Avanço equilibrado |
-| **Loot** | `1.5x` | Drop clássico |
-| **Spawns** | `1x` | Tempo de renascimento padrão |
 | **Mapa** | `Thyranic` | Mapa clássico Snowz Team |
 
 ### 🛠️ Destaques
