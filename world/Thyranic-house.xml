@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house name="Thyrania Hotel I" houseid="1" entryx="69" entryy="78" entryz="7" rent="0" townid="2" size="14"/>
+  <house name="Thyrania Hotel II" houseid="2" entryx="65" entryy="78" entryz="7" rent="0" townid="2" size="10"/>
+  <house name="Thyrania Hotel III" houseid="3" entryx="60" entryy="78" entryz="7" rent="0" townid="2" size="14"/>
+  <house name="Thyrania Hotel IV" houseid="4" entryx="54" entryy="74" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Thyrania Hotel V" houseid="5" entryx="50" entryy="74" entryz="7" rent="0" townid="2" size="22"/>
+  <house name="Thyrania Hotel VI" houseid="6" entryx="49" entryy="76" entryz="7" rent="0" townid="2" size="10"/>
+  <house name="Thyrania Hotel VII" houseid="7" entryx="49" entryy="80" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Thyrania Hotel VIII" houseid="8" entryx="51" entryy="81" entryz="7" rent="0" townid="2" size="7"/>
+  <house name="Thyrania Hotel IX" houseid="9" entryx="56" entryy="81" entryz="7" rent="0" townid="2" size="10"/>
+  <house name="Thyrania Hotel X" houseid="10" entryx="62" entryy="81" entryz="7" rent="0" townid="2" size="13"/>
+  <house name="Thyrania Hotel XI" houseid="11" entryx="68" entryy="81" entryz="7" rent="0" townid="2" size="16"/>
+  <house name="Thyrania Hotel XII" houseid="12" entryx="68" entryy="78" entryz="6" rent="0" townid="2" size="22"/>
+  <house name="Thyrania Hotel XIII" houseid="13" entryx="61" entryy="78" entryz="6" rent="0" townid="2" size="30"/>
+  <house name="Thyraia Hotel XIV" houseid="14" entryx="51" entryy="74" entryz="6" rent="0" townid="2" size="42"/>
+  <house name="Thyrania Hotel XV" houseid="15" entryx="49" entryy="78" entryz="6" rent="0" townid="2" size="35"/>
+  <house name="Thyrania Hotel XVI" houseid="16" entryx="53" entryy="81" entryz="6" rent="0" townid="2" size="16"/>
+  <house name="Thyrania Hotel XVII" houseid="17" entryx="61" entryy="81" entryz="6" rent="0" townid="2" size="19"/>
+  <house name="Thyrania Hotel XVIII" houseid="18" entryx="68" entryy="81" entryz="6" rent="0" townid="2" size="16"/>
+  <house name="Thyrania Entrance" houseid="19" entryx="78" entryy="78" entryz="7" rent="0" townid="2" size="38"/>
+  <house name="Thyrania Burbon I" houseid="20" entryx="89" entryy="77" entryz="7" rent="0" townid="2" size="34"/>
+  <house name="Thyrania Burbon II" houseid="21" entryx="89" entryy="68" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Thyrania Burbon III" houseid="22" entryx="92" entryy="52" entryz="7" rent="0" townid="2" size="27"/>
+  <house name="Thyrania Burbo IV" houseid="23" entryx="81" entryy="69" entryz="7" rent="0" townid="2" size="126"/>
+  <house name="Thyrania Burbo V" houseid="24" entryx="79" entryy="57" entryz="7" rent="0" townid="2" size="32"/>
+  <house name="Thyrania Burbo VI" houseid="25" entryx="80" entryy="53" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Thyrania Mansion I" houseid="26" entryx="68" entryy="69" entryz="7" rent="0" townid="2" size="170"/>
+  <house name="Thyrania Burbo VII" houseid="27" entryx="79" entryy="45" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Thyrania Temply Street I" houseid="28" entryx="81" entryy="37" entryz="7" rent="0" townid="2" size="139"/>
+  <house name="Thyrania Temply Street III" houseid="30" entryx="50" entryy="35" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Thyrania Burbo VIII" houseid="31" entryx="35" entryy="59" entryz="7" rent="0" townid="2" size="34"/>
+  <house name="Thyrania Burbo IX" houseid="32" entryx="44" entryy="59" entryz="7" rent="0" townid="2" size="34"/>
+  <house name="Thyrania Eastern I" houseid="33" entryx="105" entryy="58" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Thyrania Eastern II" houseid="34" entryx="106" entryy="64" entryz="7" rent="0" townid="2" size="33"/>
+  <house name="Thyrania Eastern III" houseid="35" entryx="115" entryy="58" entryz="7" rent="0" townid="2" size="34"/>
+  <house name="Thyrania Eastern IV" houseid="36" entryx="114" entryy="64" entryz="7" rent="0" townid="2" size="33"/>
+  <house name="Thyrania Eastern V" houseid="37" entryx="124" entryy="58" entryz="7" rent="0" townid="2" size="43"/>
+  <house name="Thyrania Eastern VI" houseid="38" entryx="124" entryy="69" entryz="7" rent="0" townid="2" size="47"/>
+  <house name="Thyrania Giant House" houseid="39" entryx="139" entryy="67" entryz="7" rent="0" townid="2" size="167"/>
+  <house name="Thyrania Eastern VII" houseid="40" entryx="150" entryy="67" entryz="7" rent="0" townid="2" size="23"/>
+  <house name="Thyrania Eastern VIII" houseid="41" entryx="156" entryy="67" entryz="7" rent="0" townid="2" size="18"/>
+  <house name="Thyrania Eastern IX" houseid="42" entryx="164" entryy="66" entryz="7" rent="0" townid="2" size="23"/>
+  <house name="Thyrania Eastern X" houseid="43" entryx="170" entryy="70" entryz="7" rent="0" townid="2" size="33"/>
+  <house name="Thyrania Gemini House I" houseid="44" entryx="133" entryy="72" entryz="7" rent="0" townid="2" size="30"/>
+  <house name="Thyrania Gemini House II" houseid="45" entryx="142" entryy="72" entryz="7" rent="0" townid="2" size="30"/>
+  <house name="Thyrania Gemini House IV" houseid="47" entryx="160" entryy="72" entryz="7" rent="0" townid="2" size="34"/>
+  <house name="Murnia Natural" houseid="48" entryx="770" entryy="566" entryz="7" rent="0" townid="3" size="83"/>
+  <house name="Northert I" houseid="49" entryx="776" entryy="507" entryz="7" rent="0" townid="3" size="35"/>
+  <house name="Northern II" houseid="50" entryx="778" entryy="504" entryz="7" rent="0" townid="3" size="6"/>
+  <house name="Northern III" houseid="51" entryx="780" entryy="507" entryz="7" rent="0" townid="3" size="35"/>
+  <house name="Northern IV" houseid="52" entryx="776" entryy="507" entryz="6" rent="0" townid="3" size="34"/>
+  <house name="Nothern V" houseid="53" entryx="778" entryy="504" entryz="6" rent="0" townid="3" size="6"/>
+  <house name="Northern VI" houseid="54" entryx="780" entryy="507" entryz="6" rent="0" townid="3" size="35"/>
+  <house name="Nothern VII" houseid="55" entryx="781" entryy="513" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Northern VIII" houseid="56" entryx="771" entryy="520" entryz="6" rent="0" townid="3" size="28"/>
+  <house name="Murnia I" houseid="57" entryx="791" entryy="527" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Murnia II" houseid="58" entryx="798" entryy="527" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Murnia III" houseid="59" entryx="835" entryy="527" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Murnia IV" houseid="60" entryx="842" entryy="527" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Murnia V" houseid="61" entryx="832" entryy="532" entryz="7" rent="0" townid="3" size="61"/>
+  <house name="Murnia VI" houseid="62" entryx="840" entryy="532" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Murnia VII" houseid="63" entryx="828" entryy="542" entryz="7" rent="0" townid="3" size="61"/>
+  <house name="Murnia VIII" houseid="64" entryx="828" entryy="548" entryz="7" rent="0" townid="3" size="61"/>
+  <house name="Murnia IX" houseid="65" entryx="840" entryy="551" entryz="7" rent="0" townid="3" size="71"/>
+  <house name="Upper I" houseid="66" entryx="852" entryy="535" entryz="6" rent="0" townid="3" size="30"/>
+  <house name="Upper III" houseid="67" entryx="854" entryy="515" entryz="6" rent="0" townid="3" size="15"/>
+  <house name="Upper II" houseid="68" entryx="854" entryy="523" entryz="6" rent="0" townid="3" size="15"/>
+  <house name="Wooden" houseid="69" entryx="777" entryy="528" entryz="7" rent="0" townid="3" size="21"/>
+  <house name="Hotel I" houseid="70" entryx="773" entryy="538" entryz="7" rent="0" townid="3" size="64"/>
+  <house name="Hotel II" houseid="71" entryx="796" entryy="538" entryz="7" rent="0" townid="3" size="72"/>
+  <house name="Hotel III" houseid="72" entryx="791" entryy="547" entryz="7" rent="0" townid="3" size="36"/>
+  <house name="Hotel IV" houseid="73" entryx="773" entryy="550" entryz="7" rent="0" townid="3" size="32"/>
+  <house name="Hotel V" houseid="74" entryx="778" entryy="558" entryz="7" rent="0" townid="3" size="40"/>
+  <house name="Hotel VI" houseid="75" entryx="789" entryy="558" entryz="7" rent="0" townid="3" size="41"/>
+  <house name="Hotel VII" houseid="76" entryx="778" entryy="540" entryz="6" rent="0" townid="3" size="29"/>
+  <house name="Hotel VIII" houseid="77" entryx="781" entryy="539" entryz="6" rent="0" townid="3" size="25"/>
+  <house name="Hotel IX" houseid="78" entryx="788" entryy="539" entryz="6" rent="0" townid="3" size="25"/>
+  <house name="Hotel X" houseid="79" entryx="793" entryy="539" entryz="6" rent="0" townid="3" size="25"/>
+  <house name="Hotel XI" houseid="80" entryx="791" entryy="550" entryz="6" rent="0" townid="3" size="33"/>
+  <house name="Hotel XII" houseid="81" entryx="788" entryy="551" entryz="6" rent="0" townid="3" size="30"/>
+  <house name="Hotel XIII" houseid="82" entryx="782" entryy="551" entryz="6" rent="0" townid="3" size="30"/>
+  <house name="Hotel XIV" houseid="83" entryx="776" entryy="551" entryz="6" rent="0" townid="3" size="30"/>
+  <house name="Hotel XV" houseid="84" entryx="781" entryy="537" entryz="5" rent="0" townid="3" size="42"/>
+  <house name="Hotel XVI" houseid="85" entryx="788" entryy="537" entryz="5" rent="0" townid="3" size="42"/>
+  <house name="Hotel XVII" houseid="86" entryx="788" entryy="555" entryz="5" rent="0" townid="3" size="42"/>
+  <house name="Hotel XVIII" houseid="87" entryx="781" entryy="555" entryz="5" rent="0" townid="3" size="42"/>
+  <house name="Wooden II" houseid="88" entryx="784" entryy="573" entryz="7" rent="0" townid="3" size="61"/>
+  <house name="Wooden III" houseid="89" entryx="780" entryy="581" entryz="7" rent="0" townid="3" size="61"/>
+  <house name="Wooden I" houseid="90" entryx="789" entryy="574" entryz="7" rent="0" townid="3" size="91"/>
+  <house name="Wooden IV" houseid="91" entryx="800" entryy="569" entryz="7" rent="0" townid="3" size="40"/>
+  <house name="Wooden V" houseid="92" entryx="800" entryy="581" entryz="7" rent="0" townid="3" size="43"/>
+  <house name="Wooden VI" houseid="93" entryx="807" entryy="569" entryz="7" rent="0" townid="3" size="134"/>
+  <house name="Wooden VII" houseid="94" entryx="815" entryy="569" entryz="7" rent="0" townid="3" size="66"/>
+  <house name="Wooden VIII" houseid="95" entryx="818" entryy="581" entryz="7" rent="0" townid="3" size="48"/>
+  <house name="Montanha I" houseid="96" entryx="794" entryy="601" entryz="7" rent="0" townid="3" size="26"/>
+  <house name="Montanha II" houseid="97" entryx="800" entryy="601" entryz="7" rent="0" townid="3" size="27"/>
+  <house name="Montanha III" houseid="98" entryx="807" entryy="601" entryz="7" rent="0" townid="3" size="45"/>
+  <house name="Montanha IV" houseid="99" entryx="810" entryy="597" entryz="7" rent="0" townid="3" size="15"/>
+  <house name="Montanha V" houseid="100" entryx="817" entryy="595" entryz="7" rent="0" townid="3" size="27"/>
+  <house name="Montanha VI" houseid="101" entryx="830" entryy="594" entryz="7" rent="0" townid="3" size="29"/>
+  <house name="Montanha VII" houseid="102" entryx="827" entryy="599" entryz="7" rent="0" townid="3" size="32"/>
+  <house name="Montanha VIII" houseid="103" entryx="839" entryy="597" entryz="7" rent="0" townid="3" size="35"/>
+  <house name="Montanha IX" houseid="104" entryx="847" entryy="597" entryz="7" rent="0" townid="3" size="32"/>
+  <house name="Montanha X" houseid="105" entryx="791" entryy="597" entryz="7" rent="0" townid="3" size="132"/>
+  <house name="Venga I" houseid="106" entryx="386" entryy="397" entryz="6" rent="0" townid="4" size="42"/>
+  <house name="Venga II" houseid="107" entryx="375" entryy="407" entryz="6" rent="0" townid="4" size="110"/>
+  <house name="Venga III" houseid="108" entryx="394" entryy="405" entryz="6" rent="0" townid="4" size="53"/>
+  <house name="Venga Great I" houseid="109" entryx="404" entryy="405" entryz="6" rent="0" townid="4" size="100"/>
+  <house name="Venga Eastern I" houseid="110" entryx="422" entryy="402" entryz="6" rent="0" townid="4" size="63"/>
+  <house name="Venga IV" houseid="111" entryx="407" entryy="410" entryz="6" rent="0" townid="4" size="53"/>
+  <house name="Venga V" houseid="112" entryx="416" entryy="414" entryz="6" rent="0" townid="4" size="53"/>
+  <house name="Venga VI" houseid="113" entryx="413" entryy="423" entryz="6" rent="0" townid="4" size="53"/>
+  <house name="Venga Sub I" houseid="114" entryx="404" entryy="405" entryz="7" rent="0" townid="4" size="52"/>
+  <house name="Thyrania Guild House" houseid="115" entryx="166" entryy="89" entryz="7" rent="0" townid="2" size="388"/>
+  <house name="Saaha Nomad I" houseid="116" entryx="91" entryy="333" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Nomad II" houseid="117" entryx="91" entryy="339" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Piramd I" houseid="118" entryx="68" entryy="341" entryz="7" rent="0" townid="2" size="4"/>
+  <house name="Saaha Piramd II" houseid="119" entryx="61" entryy="340" entryz="7" rent="0" townid="2" size="15"/>
+  <house name="Saaha Piramd III" houseid="120" entryx="57" entryy="340" entryz="7" rent="0" townid="2" size="15"/>
+  <house name="Saaha Piramd IV" houseid="121" entryx="55" entryy="339" entryz="7" rent="0" townid="2" size="15"/>
+  <house name="Saaha Piramd V" houseid="122" entryx="61" entryy="339" entryz="7" rent="0" townid="2" size="12"/>
+  <house name="Saaha Piramd VI" houseid="123" entryx="66" entryy="339" entryz="7" rent="0" townid="2" size="15"/>
+  <house name="Saaha Piramd VII" houseid="124" entryx="57" entryy="344" entryz="6" rent="0" townid="2" size="30"/>
+  <house name="Saaha Piramd VIII" houseid="125" entryx="65" entryy="340" entryz="6" rent="0" townid="2" size="14"/>
+  <house name="Saaha Piramd IX" houseid="126" entryx="63" entryy="340" entryz="5" rent="0" townid="2" size="10"/>
+  <house name="Saaha Nomad III" houseid="127" entryx="45" entryy="337" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Nomad IV" houseid="128" entryx="45" entryy="346" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Nomad V" houseid="129" entryx="50" entryy="360" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Nomad VI" houseid="130" entryx="77" entryy="377" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Saaha Nomad VII" houseid="131" entryx="83" entryy="378" entryz="7" rent="0" townid="2" size="30"/>
+  <house name="Saaha Tanah I" houseid="132" entryx="49" entryy="379" entryz="7" rent="0" townid="2" size="31"/>
+  <house name="Saaha Tanah II" houseid="133" entryx="49" entryy="381" entryz="7" rent="0" townid="2" size="38"/>
+  <house name="Saaha Tanah III" houseid="134" entryx="52" entryy="381" entryz="7" rent="0" townid="2" size="37"/>
+  <house name="Saaha Tanah IV" houseid="135" entryx="52" entryy="379" entryz="7" rent="0" townid="2" size="31"/>
+  <house name="Saaha Tanah V" houseid="136" entryx="49" entryy="378" entryz="6" rent="0" townid="2" size="9"/>
+  <house name="Saaha Tanah VI" houseid="137" entryx="49" entryy="379" entryz="6" rent="0" townid="2" size="20"/>
+  <house name="Saaha Tanah VII" houseid="138" entryx="53" entryy="380" entryz="6" rent="0" townid="2" size="13"/>
+  <house name="Saaha Tanah VIII" houseid="139" entryx="52" entryy="381" entryz="5" rent="0" townid="2" size="16"/>
+  <house name="Saaha South I" houseid="140" entryx="66" entryy="402" entryz="7" rent="0" townid="2" size="24"/>
+  <house name="Saaha South II" houseid="141" entryx="64" entryy="407" entryz="7" rent="0" townid="2" size="20"/>
+  <house name="Saaha South III" houseid="142" entryx="66" entryy="411" entryz="7" rent="0" townid="2" size="24"/>
+  <house name="Saaha South IV" houseid="143" entryx="71" entryy="402" entryz="7" rent="0" townid="2" size="20"/>
+  <house name="Saaha South V" houseid="144" entryx="69" entryy="407" entryz="7" rent="0" townid="2" size="26"/>
+  <house name="Saaha South VI" houseid="145" entryx="71" entryy="411" entryz="7" rent="0" townid="2" size="20"/>
+  <house name="Saaha South VII" houseid="146" entryx="65" entryy="408" entryz="6" rent="0" townid="2" size="21"/>
+  <house name="Saaha South VIII" houseid="147" entryx="64" entryy="405" entryz="6" rent="0" townid="2" size="18"/>
+  <house name="Saaha South IX" houseid="148" entryx="70" entryy="409" entryz="6" rent="0" townid="2" size="20"/>
+  <house name="Saaha South X" houseid="149" entryx="74" entryy="400" entryz="6" rent="0" townid="2" size="32"/>
+  <house name="Icya House 1" houseid="150" entryx="771" entryy="729" entryz="7" rent="0" townid="5" size="25"/>
+  <house name="Icya House 2" houseid="151" entryx="780" entryy="729" entryz="7" rent="0" townid="5" size="12"/>
+  <house name="Icya House 3" houseid="152" entryx="775" entryy="719" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 4" houseid="153" entryx="775" entryy="713" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 5" houseid="154" entryx="775" entryy="707" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 6" houseid="155" entryx="778" entryy="706" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 7" houseid="156" entryx="779" entryy="710" entryz="7" rent="0" townid="5" size="12"/>
+  <house name="Icya House 8" houseid="157" entryx="779" entryy="714" entryz="7" rent="0" townid="5" size="9"/>
+  <house name="Icya house 9" houseid="158" entryx="784" entryy="721" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 10" houseid="159" entryx="788" entryy="712" entryz="7" rent="0" townid="5" size="20"/>
+  <house name="Icya House 11" houseid="160" entryx="793" entryy="719" entryz="7" rent="0" townid="5" size="20"/>
+  <house name="Icya House 12" houseid="161" entryx="800" entryy="721" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Icya House 13" houseid="162" entryx="802" entryy="712" entryz="7" rent="0" townid="0" size="22"/>
+  <house name="Icya House 14" houseid="163" entryx="811" entryy="714" entryz="7" rent="0" townid="5" size="20"/>
+  <house name="Icya House 3 " houseid="164" entryx="772" entryy="733" entryz="7" rent="0" townid="5" size="25"/>
+  <house name="Icya House 16" houseid="165" entryx="783" entryy="736" entryz="7" rent="0" townid="5" size="0"/>
+  <house name="Icya House 17" houseid="166" entryx="782" entryy="741" entryz="7" rent="0" townid="5" size="12"/>
+  <house name="Icya House 18" houseid="167" entryx="785" entryy="742" entryz="7" rent="0" townid="5" size="25"/>
+  <house name="Icya House 19" houseid="168" entryx="794" entryy="742" entryz="7" rent="0" townid="5" size="25"/>
+  <house name="Icya House 20" houseid="169" entryx="808" entryy="729" entryz="7" rent="0" townid="5" size="22"/>
+  <house name="Icya House 21" houseid="170" entryx="808" entryy="735" entryz="7" rent="0" townid="5" size="22"/>
+  <house name="Icya House 22" houseid="171" entryx="803" entryy="742" entryz="7" rent="0" townid="5" size="25"/>
+  <house name="Icya House 4 " houseid="172" entryx="783" entryy="736" entryz="7" rent="0" townid="5" size="12"/>
+  <house name="Talas I" houseid="174" entryx="593" entryy="833" entryz="7" rent="0" townid="7" size="7"/>
+  <house name="Talas II" houseid="175" entryx="596" entryy="833" entryz="7" rent="0" townid="7" size="31"/>
+  <house name="Talas III" houseid="176" entryx="588" entryy="841" entryz="7" rent="0" townid="7" size="27"/>
+  <house name="Talas House IV" houseid="177" entryx="574" entryy="841" entryz="7" rent="0" townid="7" size="32"/>
+  <house name="Talas House V" houseid="197" entryx="573" entryy="849" entryz="7" rent="0" townid="7" size="25"/>
+  <house name="Talas House VI" houseid="198" entryx="569" entryy="860" entryz="7" rent="0" townid="7" size="40"/>
+  <house name="Talas House VII" houseid="199" entryx="594" entryy="866" entryz="7" rent="0" townid="7" size="34"/>
+  <house name="Talas House VIII" houseid="200" entryx="585" entryy="871" entryz="7" rent="0" townid="7" size="29"/>
+  <house name="Talas House VIIII" houseid="201" entryx="581" entryy="883" entryz="7" rent="0" townid="7" size="31"/>
+  <house name="Talas House X" houseid="202" entryx="608" entryy="890" entryz="7" rent="0" townid="7" size="33"/>
+  <house name="Talas House XI" houseid="203" entryx="619" entryy="883" entryz="7" rent="0" townid="7" size="41"/>
+  <house name="Talas House XII" houseid="204" entryx="627" entryy="886" entryz="7" rent="0" townid="7" size="45"/>
+  <house name="Talas House XIII" houseid="205" entryx="629" entryy="880" entryz="7" rent="0" townid="7" size="25"/>
+  <house name="Talas House XIV" houseid="206" entryx="629" entryy="862" entryz="7" rent="0" townid="7" size="53"/>
+  <house name="Talas House XV" houseid="207" entryx="610" entryy="867" entryz="7" rent="0" townid="7" size="20"/>
+  <house name="Talas House XVI" houseid="208" entryx="638" entryy="858" entryz="7" rent="0" townid="7" size="26"/>
+  <house name="Talas House XVII" houseid="209" entryx="621" entryy="847" entryz="7" rent="0" townid="7" size="21"/>
+  <house name="Talas House XVIII" houseid="210" entryx="637" entryy="848" entryz="6" rent="0" townid="7" size="29"/>
+  <house name="Talas House XVIIII" houseid="211" entryx="625" entryy="855" entryz="6" rent="0" townid="7" size="30"/>
+  <house name="Talas House XX" houseid="212" entryx="607" entryy="823" entryz="6" rent="0" townid="7" size="30"/>
+  <house name="Talas Swamp Guildhall" houseid="213" entryx="587" entryy="806" entryz="6" rent="0" guildhall="1" townid="7" size="135"/>
+  <house name="Talas House XXI" houseid="214" entryx="554" entryy="831" entryz="7" rent="0" townid="7" size="34"/>
+  <house name="Icya House 25" houseid="215" entryx="796" entryy="751" entryz="7" rent="0" townid="5" size="19"/>
+  <house name="Icya House 26" houseid="216" entryx="805" entryy="751" entryz="7" rent="0" townid="5" size="16"/>
+  <house name="Talas House XXII" houseid="217" entryx="628" entryy="847" entryz="6" rent="0" townid="7" size="16"/>
+  <house name="Thyrania Temple Street" houseid="218" entryx="59" entryy="35" entryz="7" rent="0" townid="2" size="28"/>
+  <house name="Mandrin I" houseid="219" entryx="1025" entryy="480" entryz="7" rent="0" townid="8" size="7"/>
+  <house name="Mandrin II" houseid="220" entryx="1028" entryy="477" entryz="7" rent="0" townid="8" size="16"/>
+  <house name="Mandrin III" houseid="221" entryx="1035" entryy="479" entryz="7" rent="0" townid="8" size="56"/>
+  <house name="Mandrin IV" houseid="222" entryx="1048" entryy="479" entryz="7" rent="0" townid="8" size="37"/>
+  <house name="Mandrin V" houseid="223" entryx="1060" entryy="479" entryz="7" rent="0" townid="8" size="35"/>
+  <house name="Mandrin Guild Hall I" houseid="224" entryx="1045" entryy="488" entryz="7" rent="0" guildhall="1" townid="8" size="54"/>
+  <house name="Mandrin VI" houseid="225" entryx="1039" entryy="488" entryz="7" rent="0" townid="8" size="35"/>
+  <house name="Mandrin VII" houseid="226" entryx="1025" entryy="487" entryz="7" rent="0" townid="8" size="40"/>
+  <house name="Mandrin VIII" houseid="227" entryx="1025" entryy="498" entryz="7" rent="0" townid="8" size="37"/>
+  <house name="Mandrin IX" houseid="228" entryx="1025" entryy="508" entryz="7" rent="0" townid="8" size="40"/>
+  <house name="Mandrin X" houseid="229" entryx="1039" entryy="507" entryz="7" rent="0" townid="8" size="35"/>
+  <house name="Mandrin XI" houseid="230" entryx="1045" entryy="508" entryz="7" rent="0" townid="8" size="56"/>
+  <house name="Mandrin Guild Hall II" houseid="231" entryx="1045" entryy="499" entryz="7" rent="0" townid="8" size="56"/>
+  <house name="Mandrin XII" houseid="232" entryx="1066" entryy="498" entryz="7" rent="0" townid="8" size="35"/>
+  <house name="Mandrin Apart I" houseid="233" entryx="1068" entryy="511" entryz="7" rent="0" townid="8" size="7"/>
+  <house name="Mandrin Apart II" houseid="234" entryx="1072" entryy="511" entryz="7" rent="0" townid="8" size="16"/>
+  <house name="Mandrin Apart III" houseid="235" entryx="1074" entryy="509" entryz="7" rent="0" townid="8" size="7"/>
+  <house name="Mandrin Apart IV" houseid="236" entryx="1072" entryy="507" entryz="7" rent="0" townid="8" size="16"/>
+  <house name="Mandrin Apart V" houseid="237" entryx="1068" entryy="507" entryz="7" rent="0" townid="8" size="7"/>
+  <house name="Mandrin Apart VI" houseid="238" entryx="1069" entryy="511" entryz="6" rent="0" townid="8" size="30"/>
+  <house name="Mandrin Apart VII" houseid="239" entryx="1068" entryy="507" entryz="6" rent="0" townid="8" size="12"/>
+  <house name="Mandrin Apart VIII" houseid="240" entryx="1071" entryy="510" entryz="6" rent="0" townid="8" size="36"/>
+</houses>
